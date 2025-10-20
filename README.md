@@ -18,7 +18,7 @@ A proposta busca aproximar a teoria estatística e computacional do contexto rea
 
 ---
 
-## 📘 Conteúdo
+## Conteúdo
 
 As atividades estão organizadas em **níveis de complexidade crescente**, incluindo:
 
@@ -35,7 +35,7 @@ Cada exemplo inclui:
 
 ---
 
-## 🤖 Uso da Inteligência Artificial
+## Uso da Inteligência Artificial
 
 Durante o desenvolvimento, foram utilizadas ferramentas de **IA generativa**, como o ChatGPT, **de forma crítica e supervisionada**.  
 A IA atuou como **apoio cognitivo** na estruturação de códigos, revisão de análises e formulação de exemplos, sem substituir o raciocínio técnico e conceitual.  
@@ -43,7 +43,7 @@ Essa experiência também serviu como reflexão sobre o papel da IA na **educaç
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Clone o repositório:  
    ```bash
