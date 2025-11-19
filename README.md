@@ -47,7 +47,7 @@ Essa experiência também serviu como reflexão sobre o papel da IA na **educaç
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/virginia-araujo/ciencia_de_dados_para_eq
 - Enunciado do problema;  
 - Código em Python com comentários explicativos;  
 - Interpretação dos resultados em linguagem técnica e pedagógica.  
