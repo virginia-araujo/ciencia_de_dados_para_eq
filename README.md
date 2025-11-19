@@ -14,7 +14,14 @@ A proposta busca aproximar a teoria estatística e computacional do contexto rea
 
 ## Estrutura do Repositório
 
-(fazer)
+A estrutura do repositório é dividida em:
+-**Base de dados** - pasta que contem a base de dados que será usada para todos os exercícios
+-**Exercícios resolvidos** - pasta que contem todos os arquivos relacionados a resolução dos exercícios. Nela você encontra o enunciado, código em Python e o Diário de Bordo, esse último explica como espera que o aluno construa o raciocínio ao longo da prática.
+A ordem esperada para a resolução dos exercícios é:
+1- regressão linear
+2- seleção de variáveis
+3- reamostragem
+4- árvore de decisão
 
 ---
 
