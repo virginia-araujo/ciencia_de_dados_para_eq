@@ -1,0 +1,4 @@
+A BioFermenta S.A. deseja implantar um sistema automatizado que classifique suas bateladas como eficientes ou ineficientes,
+com base nas variáveis de processo (pH, temperatura, tempo de fermentação, concentração de glicose e agitação). 
+Após testes com regressão logística, a equipe de ciência de dados quer experimentar modelos baseados em árvores para ganhar interpretabilidade e performance,
+além de entender as interações entre os fatores do processo.
