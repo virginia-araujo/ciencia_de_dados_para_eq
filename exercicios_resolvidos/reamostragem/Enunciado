@@ -1,0 +1,2 @@
+A BioFermenta S.A. deseja garantir que o modelo logístico para prever a eficiência das bateladas não esteja sofrendo com sobreajuste.
+Para isso, a equipe estatística propõe aplicar técnicas de reamostragem que estimem a estabilidade dos resultados, como validação cruzada e bootstrap.
